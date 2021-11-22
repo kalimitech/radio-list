@@ -6,6 +6,11 @@
 		"name": "SB Stereo",
 		"url": "http://stream.playerlive.info:8285/sb.aac?type=.mp3"
 	}
+		    {
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/BBC_Radio_2.svg/1200px-BBC_Radio_2.svg.png",
+		"name": "BBC Radio 2",
+		"url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two"
+	}
 
 ]
 
